@@ -1,4 +1,4 @@
-# Universal-JailBreak-Bypass
+# Universal JailBreak Bypass
 This tool is designed to circumvent Jailbreak Detection mechanisms in iOS devices. This tool enumerates classes and methods directly from the application and then automatically generates a Frida script to bypass the mechanism. This is unlike other publicly available applications and scripts that mostly search for predefined class and method names. This approach often fails when developers make changes to class or method names. In such cases, manual identification of the class and method name is required for bypassing, which can take around 1.5 to 2 hours.
 
 ## Audience
