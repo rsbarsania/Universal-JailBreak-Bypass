@@ -17,6 +17,6 @@ git clone https://github.com/rsbarsania/Universal-JailBreak-Bypass.git
 ## Usage:
 
 1. Unzip the Universal-JailBreak-Bypass.zip file.
-2. Launch the target application.
-3. Select Universal_JailBreak_Bypass.ps1 file and run with powershell.
-4. Enter Process Identifier Name which you want to bypass.
+2. Launch the target iOS application.
+3. Right click on the Universal_JailBreak_Bypass.ps1 file and select "Run with Powershell".
+4. Enter the Process Identifier of the application from the Frida output which you want to bypass.
