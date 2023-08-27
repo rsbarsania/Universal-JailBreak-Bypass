@@ -7,14 +7,14 @@ This tool is written for pentesters, who wants to bypass the JailBreak Detection
 ## Requirements
 This tool is written in PowerShell script; thus, the user has to run it in PowerShell.
 
-## Installation:
+## Installation
 Installation is just a case of downloading the Universal-JailBreak-Bypass.zip file (or git clone the repo).
 
 ```
 git clone https://github.com/rsbarsania/Universal-JailBreak-Bypass.git
 ```
 
-## Usage:
+## Usage
 
 1. Unzip the Universal-JailBreak-Bypass.zip file.
 2. Launch the target iOS application.
@@ -23,3 +23,4 @@ git clone https://github.com/rsbarsania/Universal-JailBreak-Bypass.git
 
 ## Screenshot
 ![img](https://github.com/rsbarsania/Universal-JailBreak-Bypass/assets/81644857/9f2e00fb-9c7d-4f74-9d91-54ab6e7865c6)
+
