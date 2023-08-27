@@ -24,3 +24,12 @@ git clone https://github.com/rsbarsania/Universal-JailBreak-Bypass.git
 ## Screenshot
 ![img](https://github.com/rsbarsania/Universal-JailBreak-Bypass/assets/81644857/9f2e00fb-9c7d-4f74-9d91-54ab6e7865c6)
 
+## About Me
+
+* **Rishabh Singh** - *Cyber Security Researcher* - [Rishabh Singh](https://github.com/rsbarsania/)
+
+### Social Media Handles
+* [Twitter](https://twitter.com/rsbarsania)
+* [Medium](https://medium.com/@rsbarsania)
+* [Linkedin](https://www.linkedin.com/in/rishabhkumarsingh20/)
+* [Instagram](https://www.instagram.com/th.rishabhsingh/)
