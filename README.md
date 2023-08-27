@@ -17,5 +17,6 @@ git clone https://github.com/rsbarsania/Universal-JailBreak-Bypass.git
 ## Usage:
 
 1. Unzip the Universal-JailBreak-Bypass.zip file.
-2. Right click on Universal_JailBreak_Bypass.ps1 file and run with powershell.
-3. Enter Process Identifier Name which you want to bypass.
+2. Launch the target application.
+3. Select Universal_JailBreak_Bypass.ps1 file and run with powershell.
+4. Enter Process Identifier Name which you want to bypass.
